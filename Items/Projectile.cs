@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace SolsFringeReborn.Items
+namespace DoctorWho.Items
 {
 	public class Projectile_157 : ModProjectile
 	{
