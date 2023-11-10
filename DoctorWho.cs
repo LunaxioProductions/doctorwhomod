@@ -2,9 +2,9 @@ using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
 
-namespace SolsFringeReborn
+namespace DoctorWho
 {
-	public class SolsFringeReborn : Mod
+	public class Doctorwho : Mod
 	{
 	
                    public override void AddRecipes()
