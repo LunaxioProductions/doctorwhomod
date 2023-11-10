@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace SolsFringeReborn.Items
+namespace DoctorWho.Items
 {
 	public class SolsFringe : ModItem
 	{
